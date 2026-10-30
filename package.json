@@ -1,0 +1,9 @@
+{
+  "name": "sorter",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "swiftc -O classify.swift -o bin/classify",
+    "start": "node server.mjs"
+  }
+}

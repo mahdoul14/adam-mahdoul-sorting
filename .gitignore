@@ -1,0 +1,5 @@
+.cache/
+bin/
+node_modules/
+.claude/
+.DS_Store
